@@ -1,0 +1,1 @@
+console.log("Teste de aplicação de cadastro de jogos");
